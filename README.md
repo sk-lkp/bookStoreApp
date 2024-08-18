@@ -6,3 +6,4 @@ https://github.com/sk-lkp/bookStoreApp/blob/329eeaedfcedf048f46ba4a9b49500ed4af2
 https://github.com/sk-lkp/bookStoreApp/blob/51b9508da2f340fcd66da2718e317e2293cc9ec5/Screenshot%202024-08-19%20002400.png
 https://github.com/sk-lkp/bookStoreApp/blob/e5f61c75214f7392bdf41d31236525156b88e584/Screenshot%202024-08-19%20002418.png
 https://github.com/sk-lkp/bookStoreApp/blob/e98cb22d61ef24712e5a3718ef033a0b0da90288/Screenshot%202024-08-19%20002448.png
+https://github.com/sk-lkp/bookStoreApp/blob/129f525b68e98af489943c930741c5fad309a5ae/Screenshot%202024-08-19%20002459.png
